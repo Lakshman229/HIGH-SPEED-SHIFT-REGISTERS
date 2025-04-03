@@ -1,46 +1,3 @@
-Skip to content
-Navigation Menu
-
-Sign in
-Rohith2830
-/
-High-Speed-Shift-Registers
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-
-Files
-
- main
-BreadcrumbsHigh-Speed-Shift-Registers
-/LTSPICE_CODE
-
-
-Latest commit
-Rohith2830
-Rohith2830
-Create LTSPICE_CODE
-86ac9e5
- · 
-last month
-History
-50 lines (50 loc) · 1.12 KB
-File metadata and controls
-
-Code
-
-Blame
-Raw
-
-
-
-
-
 *INVERTER CLOCK
 M1 S1 G1 G2 NC_01 PMOS
 M2 G2 G1 0 NC_02 NMOS
@@ -91,6 +48,3 @@ VDD S1 0 5
 .tran 150n
 .lib"C:\Users\HP\AppData\Local\Programs\ADI\LTspice\lib\lib\cmp\standard.res"
 .end
-1
-234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950
-High-Speed-Shift-Registers/LTSPICE_CODE at main · Rohith2830/High-Speed-Shift-Registers · GitHub 
